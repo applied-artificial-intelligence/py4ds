@@ -15,10 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Python for Data Science
 email: stefan@applied-ai.solutions
-description: > # this means to ignore newlines until "baseurl:"
-This site contains teaching materials for Python for Data Science.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: This site contains teaching materials for Python for Data Science.
 github_username:  AppliedArtificialIntelligence
 
 # Build settings
