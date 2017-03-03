@@ -17,8 +17,7 @@ title: Python for Data Science
 email: stefan@applied-ai.solutions
 description: This site contains teaching materials for Python for Data Science.
 github_username:  AppliedArtificialIntelligence
-linkedin:  text
-stackoverflow: text
+url: https://applied-artificial-intelligence.github.io/py4ds/
 
 # Build settings
 markdown: kramdown
