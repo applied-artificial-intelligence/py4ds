@@ -12,6 +12,7 @@ html {
     font-size: 10px;
 }
 
+
 html,
 body {
     width: 100%;
@@ -23,7 +24,13 @@ body {
     font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
     color: #001A33;
     background-color: #F5F5F5;
-    padding: 6rem 0 1.875rem;
+    padding: 6rem 0;
+    margin-bottom: 6rem;
+}
+
+
+h1, h2, h3 {
+    padding: 1rem 0;
 }
 
 @media (min-width: 34em) {
