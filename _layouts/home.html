@@ -6,7 +6,7 @@ layout: default
     <div class="row">
         <div class="col-4">
             <h3>Agenda</h3>
-            {% for post in site.posts %}
+            {% for post in site.posts reversed %}
             <h4>
                 <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             </h4>
