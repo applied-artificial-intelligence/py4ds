@@ -17,4 +17,4 @@ Let's start the Jupyter server by running the following command in a working dir
 jupyter notebook
 ```
 
-Let's take a look at the guided tour [here](https://applied-artificial-intelligence.github.io/py4ds/jekyll/update/notebooks/Jupyter Notebook - Quick Tour.ipynb).
+Let's take a look at the guided tour [here](https://applied-artificial-intelligence.github.io/py4ds/notebooks/jupyter-tour.ipynb).
