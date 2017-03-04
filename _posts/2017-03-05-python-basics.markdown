@@ -4,22 +4,31 @@ title:  "Python Review"
 date:   2017-02-05 14:16:18 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+## Warm-Up Exercise
 
 ```py
-def print_hi(name):
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+names = ["Michael Fassbender", "Karlie Kloss", "Taylor Swift", "Justin Bieber"]
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Exercises:
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Use Python to answer the following questions:
+
+0. print the list in reverse order
+1. How many people are listed?
+2. print out the names that contain the letter 'l'
+3. remove all names that contain the letter 'l'
+4. create a list that shows how many letters (incl. spaces) each name has
+5. turn all of the names lowercase
+6. sort the list of names alphabetically using the built-in sorted function (HINT: Use Google)
+7. sort the list of names by length using the built-in sorted function
+8. delete the second person
+9. insert underscores instead of spaces
+10. convert to a dictionary with keys = first name and value = last name
+
+
+### Question:
+- What is the difference between lists and tuples?
+- What is the difference between lists and sets?
+- What are key methods of lists?

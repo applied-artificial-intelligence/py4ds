@@ -11,10 +11,10 @@ We use Jupyter (for Julia, Python, and R) Notebooks for our in-class exercises a
 
 Jupyter notebooks are powered by a server application that interprets the code and represents the results together with all other notebooks elements in a browser. This makes it ideal for interactive analysis. 
  
-Let's start one - simple as this:
+Let's start the Jupyter server by running the following command in a working directory of your choice:
 
 ```py
 jupyter notebook
 ```
 
-Let's take a look at the guided tour.
+Let's take a look at the guided tour [here](https://applied-artificial-intelligence.github.io/py4ds/jekyll/update/notebooks/Jupyter Notebook - Quick Tour.ipynb).
