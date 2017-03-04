@@ -6,8 +6,6 @@ categories: jekyll update
 ---
 ## What is [pandas](http://pandas.pydata.org/)?
 
-Let's take a look at the 
-
 Lots of functionality, and very helpful [documentation](http://pandas.pydata.org/pandas-docs/stable/). 
 
 - [Data Structures: Series & DataFrames](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)
