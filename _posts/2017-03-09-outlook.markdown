@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Next Steps"
+date:   2017-02-07 14:16:18 -0500
+categories: jekyll update
+---
+
+## Intro to Machine Learning
+
+[Scikit-Learn](http://scikit-learn.org/), [statsmodels](http://statsmodels.sourceforge.net/) and [scipy](https://docs.scipy.org/doc/scipy-0.18.1/reference/) are the main machine learning and statistic libraries in python.
+
+
